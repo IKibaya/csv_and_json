@@ -60,3 +60,4 @@
 
    - Communicate the entire time during the discussion to avoid conflicts.
    - Coordinate merges with the group leader so everyone’s changes are included.
+### Header for group 6
